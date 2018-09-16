@@ -4,9 +4,7 @@
 
 ## To try it out, Use this to install it on your linux computer.
 ### curl https://raw.githubusercontent.com/yhdesai/Zach/master/zachinstaller | sudo bash -
-
-
-## Once its installed, You can try it out by typing 'zach' in terminal
+### Once its installed, You can try it out by typing 'zach' in terminal
 
 
 
